@@ -4,17 +4,15 @@
 ~~~
 {}{img_left}{Ze.jpg}{Ze Wang}{400px}
 
-\n
-*Contact*: 
-
-wang5026 \[at\] purdue.edu
-
-
 ~~~
 \n
 \n
 
-I am a fourth-year Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. 
+*Contact*: 
+wang5026 \[at\] purdue.edu
+
+I am currently a fourth-year Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. 
+Before joing Purdue University at 2020, I was a Ph.D. student in Electrical and Computer Engineering at Duke University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu] and [https://ece.duke.edu/faculty/guillermo-sapiro Prof. Guillermo Sapiro].
 
 I got my B.E. from [https://www.buaa.edu.cn Beihang University] in 2017.
 
@@ -25,4 +23,46 @@ I got my B.E. from [https://www.buaa.edu.cn Beihang University] in 2017.
 
 - *Image Generation using Continuous Filter Atoms* \n
 *Ze Wang*, Seunghyun Hwang, Zichen Miao, Qiang Qiu\n
-/NeurIPS/ Spotlight, 2021\n
+/NeurIPS/ *Spotlight*, 2021\n
+
+- *Learning to Learn Dense Gaussian Processes for Few-Shot Learning* \n
+*Ze Wang*, Zichen Miao, Xiantong Zhen, Qiang Qiu\n
+/NeurIPS/, 2021\n
+
+- *Spatiotemporal Joint Filter Decomposition in 3D Convolutional Neural Networks* \n
+Zichen Miao, *Ze Wang*, Xiantong Zhen, Qiang Qiu\n
+/NeurIPS/, 2021\n
+
+- *Adaptive Convolutions with Per-pixel Dynamic Filter Atom* \n
+*Ze Wang*, Zichen Miao, Jun Hu, Qiang Qiu\n
+/ICCV/, 2021\n
+\[[https://arxiv.org/pdf/2108.07895.pdf pdf]\]
+\[[https://github.com/ZeWang95/ACDA code]\]
+
+- *Cirrus: A Long-range Bi-pattern LiDAR Dataset* \n
+*Ze Wang*, Sihao Ding, Ying Li, Jonas Fenn, Sohini Roychowdhury, Andreas Wallin, Lane Martin, Scott Ryvola, Guillermo Sapiro, Qiang Qiu\n
+/ICRA/, 2021\n
+\[[https://arxiv.org/pdf/2012.02938.pdf pdf]\]
+\[[https://developer.volvocars.com/open-datasets/cirrus/ dataset]\]
+
+- *Using Text to Teach Image Retrieval* \n
+Haoyu Dong, *Ze Wang*, Qiang Qiu, Guillermo Sapiro\n
+/CVPR Multimodal Learning and Applications Workshop/, 2021\n
+\[[https://openaccess.thecvf.com/content/CVPR2021W/MULA/papers/Dong_Using_Text_To_Teach_Image_Retrieval_CVPRW_2021_paper.pdf pdf]\]
+
+*- 2020*
+
+- *A Dictionary Approach to Domain-Invariant Learning in Deep Networks* \n
+*Ze Wang*, Xiuyuan Cheng, Guillermo Sapiro, Qiang Qiu\n
+/NeurIPS/, 2020\n
+\[[https://arxiv.org/pdf/1909.11285.pdf pdf]\]
+
+- *Stochastic Conditional Generative Networks with Basis Decomposition* \n
+*Ze Wang*, Xiuyuan Cheng, Guillermo Sapiro, Qiang Qiu\n
+/ICLR/, 2020\n
+\[[https://arxiv.org/pdf/1909.11286.pdf pdf]\]
+
+- *Range Adaptation for 3D Object Detection in LiDAR* \n
+*Ze Wang*,  Ding, Ying Li, Minming Zhao, Sohini Roychowdhury, Andreas Wallin, Guillermo Sapiro, Qiang Qiu\n
+/ICCV Workshop on Autonomous Driving/ *Best Paper Award*, 2020\n
+\[[https://arxiv.org/pdf/1909.12249.pdf pdf]\]
