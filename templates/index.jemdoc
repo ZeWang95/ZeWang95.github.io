@@ -11,7 +11,7 @@
 *Contact*: 
 wang5026 \[at\] purdue.edu
 
-I am currently a fourth-year Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. 
+I am currently a final-year Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. 
 
 Before joining Purdue University in 2020, I was a Ph.D. student in Electrical and Computer Engineering at Duke University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu] and [https://ece.duke.edu/faculty/guillermo-sapiro Prof. Guillermo Sapiro].
 
@@ -20,11 +20,18 @@ I got my B.E. from [https://www.buaa.edu.cn Beihang University] in 2017.
 
 == Recent Publications
 
+*- 2023*
+- *eta-OLE: Meta-learned Orthogonal Low-Rank Embedding* \n
+*Ze Wang*, Yue Lu, Qiang Qiu\n
+/ICLR/, 2023\n
+
+
 *- 2022*
 
 - *Energy-Inspired Self-Supervised Pretraining for Vision Models* \n
 *Ze Wang*, Jiang Wang, Zicheng Liu, Qiang Qiu\n
 /ICML Pre-training Workshop/, 2022\n
+\[[https://openreview.net/pdf?id=FF-87uOHV0E pdf]\]
 
 - *Continual Learning with Filter Atom Swapping* \n
 Zichen Miao, *Ze Wang*, Wei Chen, Qiang Qi\n
