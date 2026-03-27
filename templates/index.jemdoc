@@ -11,14 +11,13 @@
 *Contact*: 
 ze.wang.0610 \[at\] gmail.com
 
-I am currently a postdoc at the Purdue University Electrical and Computer Engineering department, working with [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu]. 
+I am currently a Research Scientist at [https://lumalabs.ai/ Luma AI].
 
-My Ph.D. research focuses on computer vision models that efficiently learn and adapt with minimal supervision. 
-Motivated by this objective, my research has progressed in three main directions: (1) vision model adaptation in low-rank filter subspace; (2) few-shot adaptive vision models; and (3) representation learning with generative models. For more details, please refer to my [https://github.com/ZeWang95/ZeWang95.github.io/tree/master/static/Research_Statement.pdf research statement]. 
+Previously, I was an Applied Research Scientist at AMD, working on open-source research at the GenAI team. Before that, I was a Postdoctoral Research Associate at Purdue University, working with [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu].
 
-Before joining Purdue University in 2020, I was a Ph.D. student in Electrical and Computer Engineering at Duke University, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu] and [https://ece.duke.edu/faculty/guillermo-sapiro Prof. Guillermo Sapiro].
+I received my Ph.D. in Electrical and Computer Engineering from Purdue University in 2023, advised by [https://web.ics.purdue.edu/~qqiu/ Prof. Qiang Qiu] and [https://ece.duke.edu/faculty/guillermo-sapiro Prof. Guillermo Sapiro]. Before joining Purdue, I was a Ph.D. student at Duke University. I got my B.E. from [https://www.buaa.edu.cn Beihang University] in 2017.
 
-I got my B.E. from [https://www.buaa.edu.cn Beihang University] in 2017.
+My research focuses on computer vision models that efficiently learn and adapt with minimal supervision, including vision model adaptation, few-shot learning, and generative models.
 
 
 == Recent Publications
